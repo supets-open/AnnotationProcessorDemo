@@ -1,0 +1,1 @@
+include ':app', ':librouterProcessor', ':libannotation', ':librouter'
